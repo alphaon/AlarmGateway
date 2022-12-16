@@ -1,0 +1,31 @@
+
+		Conversion table", "055", "R305", "Перезапуск системы"
+		Conversion table", "057", "E602", "Периодический тест"
+		Conversion table", "058", "E400", "Снятие с охраны"
+		Conversion table", "066", "R400", "Постановка на охрану"
+		Conversion table", "051", "E301", "Отключение 220В"
+		Conversion table", "059", "R301", "Восстановление 220В"
+		Conversion table", "052", "E302", "АКБ разряжена"
+		Conversion table", "060", "R302", "АКБ заряжена"
+		Conversion table", "001", "E130", "Вторжение в зоне 1"
+		Conversion table", "002", "E130", "Вторжение в зоне 2"
+		Conversion table", "003", "E130", "Вторжение в зоне 3"
+		Conversion table", "004", "E130", "Вторжение в зоне 4"
+		Conversion table", "005", "E130", "Вторжение в зоне 5"
+		Conversion table", "006", "E130", "Вторжение в зоне 6"
+		Conversion table", "007", "E130", "Вторжение в зоне 7"
+		Conversion table", "008", "E130", "Вторжение в зоне 8"
+		Conversion table", "017", "R130", "Сброс"
+		Conversion table", "018", "R130", "Сброс"
+		Conversion table", "019", "R130", "Сброс"
+		Conversion table", "020", "R130", "Сброс"
+		Conversion table", "021", "R130", "Сброс"
+		Conversion table", "022", "R130", "Сброс"
+		Conversion table", "023", "R130", "Сброс"
+		Conversion table", "024", "R130", "Сброс"
+		
+		1234 - Номер объекта
+		051 - Событие
+		100 - Уровень сигнала
+		
+		Сообщение: 1234051100111111111111111111
